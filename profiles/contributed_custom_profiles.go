@@ -248,7 +248,7 @@ var NikeIosMobile = ClientProfile{
 						tls.PSSWithSHA256,
 						tls.PKCS1WithSHA256,
 						tls.ECDSAWithP384AndSHA384,
-						tls.ECDSAWithSHA1,
+					
 						tls.PSSWithSHA384,
 						tls.PSSWithSHA384,
 						tls.PKCS1WithSHA384,
